@@ -1,0 +1,12 @@
+stage 5, quotations.add()
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Nov 5 17:30:09 2023 +0900
+#
+# On branch main
+# Changes to be committed:
+#	modified:   src/main/java/com/ll/App.java
+#	new file:   src/main/java/com/ll/Quotation.java
+#
